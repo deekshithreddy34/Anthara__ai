@@ -79,5 +79,8 @@ anthara-project/
 # anthara-ai
 # Anthara__ai
 
+
+live demo:
 ```
-live demo:https://antharaai-d8vvp6d05-deekshithreddy34s-projects.vercel.app/anthara
+https://antharaai-d8vvp6d05-deekshithreddy34s-projects.vercel.app/anthara
+```

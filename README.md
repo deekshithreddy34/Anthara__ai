@@ -78,3 +78,6 @@ anthara-project/
 # anthara-ai
 # anthara-ai
 # Anthara__ai
+
+```
+live demo:https://antharaai-d8vvp6d05-deekshithreddy34s-projects.vercel.app/anthara

@@ -1,0 +1,29 @@
+{
+  "name": "anthara-architecture",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Anthara AI 3D In-IDE Conduct Layer and Compliance Governance Architecture",
+  "scripts": {
+    "dev": "next dev -p 3003",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "16.3.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.0",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "19.2.4",
+    "@types/three": "^0.186.0",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.2.2"
+  }
+}
